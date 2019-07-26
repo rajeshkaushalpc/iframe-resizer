@@ -1,4 +1,4 @@
 
-'use strict'; // def
+'use strict'; // def new
 
 module.exports = require('./js');
